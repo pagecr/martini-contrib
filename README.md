@@ -5,6 +5,8 @@ This package includes a variety of add-on components for [Martini][], a classy w
 Install all the packages (**go 1.1** and greater is required):
 ~~~
 go get github.com/codegangsta/martini-contrib/...
+or
+go get github.com/pagecr/martini-contrib/...
 ~~~
 
 Join the [Mailing list](https://groups.google.com/forum/#!forum/martini-go)
